@@ -10,3 +10,6 @@
   JPEG/GIF/PNG
 ・1MBバイト以下の画像
 ・400pxの横幅を超えるものに関しては、サムネイルを作成し表示する
+
+<img src="example1.png">
+<img src="example2.png">
